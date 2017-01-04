@@ -1,0 +1,26 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Earley Designs. Printed Circuit Board design | Manufacture and assembley in The U.K.
+description: Early Designs home page.
+keywords: >
+  pcb design,high speed,early designs,Cadence Allegro,smd,Specctra,autorouter,Cadstar,
+  Orcad, schematic,capture,manufacture,assembly,multilayer pcb design,design bureau,
+  layout, controlled impedance, pwb, pcb manufacturing,pcb manufacturer,PCB prototype,
+  power boards,motherboards,keyboards,Micro-via,Flexi-Rigid,Backplanes,
+  Design For Manufacture,PCB layout, printed circuit board layout,CAD,EDA
+
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://early-designs.co.uk"
+email: info@early-designs.co.uk
+phone: +44(0)118 0723531
+fax: +44(0)870 6220246
+
+# Build settings
+markdown: kramdown

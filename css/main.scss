@@ -1,0 +1,158 @@
+---
+# Main CSS
+---
+@charset "utf-8";
+
+
+p {
+  margin:7px;
+}
+/* Created using Style Master from Western Civilisation NS4.0 { -25 -4 702 1032 } */
+/* Created by Cliff Hooker 10/06/2005 */
+
+/* Global hyperlink definitions */
+
+A:link {text-decoration: none; color: #006699;}
+A:visited {text-decoration: none; color: #006699;}
+A:active {text-decoration: none; color: #006699;}
+A:hover {text-decoration: underline; color: #f1802f;}
+
+
+/* definitions for text styles */
+
+/* definitions for white text */
+
+.white08point {
+  font-family: Verdana, Arial, sans-serif, Helvetica;
+  font-style: normal;
+  font-weight: normal;
+  color: #ffffff;
+  font-size: 8pt;
+}
+
+.white08pointBOLD {
+  font-family: Verdana, Arial, sans-serif, Helvetica;
+  font-style: normal;
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 8pt;
+}
+
+.white10point {
+  font-family: Verdana, Arial, sans-serif, Helvetica;
+  font-style: normal;
+  font-weight: normal;
+  color: #ffffff;
+  font-size: 10pt;
+}
+
+.white10pointBOLD {
+  font-family: Verdana, Arial, sans-serif, Helvetica;
+  font-style: normal;
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 10pt;
+}
+
+.white12point {
+  font-family: Verdana, Arial, sans-serif, Helvetica;
+  font-style: normal;
+  font-weight: normal;
+  color: #ffffff;
+  font-size: 12pt;
+}
+
+.white26point {
+  font-family: Verdana, Arial, sans-serif, Helvetica;
+  font-style: normal;
+  font-weight: normal;
+  color: #ffffff;
+  font-size: 26pt;
+}
+
+/* black font definitions */
+
+.black08point {
+  font-family: Verdana, Arial, sans-serif, Helvetica;
+  font-style: normal;
+  font-weight: normal;
+  color: #000000;
+  font-size: 8pt;
+}
+
+.black08pointBOLD {
+  font-family: Verdana, Arial, sans-serif, Helvetica;
+  font-style: normal;
+  font-weight: bold;
+  color: #000000;
+  font-size: 8pt;
+}
+
+.black10point {
+  font-family: Verdana, Arial, sans-serif, Helvetica;
+  font-style: normal;
+  font-weight: normal;
+  color: #000000;
+  font-size: 10pt;
+}
+
+.black10pointBOLD {
+  font-family: Verdana, Arial, sans-serif, Helvetica;
+  font-style: normal;
+  font-weight: bold;
+  color: #000000;
+  font-size: 10pt;
+}
+
+.black12point {
+  font-family: Verdana, Arial, sans-serif, Helvetica;
+  font-style: normal;
+  font-weight: normal;
+  color: #000000;
+  font-size: 12pt;
+}
+
+/* light blue font definitions */
+
+.lblue08point {
+  font-family: Verdana, Arial, sans-serif, Helvetica;
+  font-style: normal;
+  font-weight: normal;
+  color: #006699;
+  font-size: 8pt;
+}
+
+.lblue08pointBOLD {
+  font-family: Verdana, Arial, sans-serif, Helvetica;
+  font-style: normal;
+  font-weight: bold;
+  color: #006699;
+  font-size: 8pt;
+}
+
+.lblue10point {
+  font-family: Verdana, Arial, sans-serif, Helvetica;
+  font-style: normal;
+  font-weight: normal;
+  color: #006699;
+  font-size: 10pt;
+}
+
+.lbluepointBOLD {
+  font-family: Verdana, Arial, sans-serif, Helvetica;
+  font-style: normal;
+  font-weight: bold;
+  color: #006699;
+  font-size: 10pt;
+}
+
+.lblue12point {
+  font-family: Verdana, Arial, sans-serif, Helvetica;
+  font-style: normal;
+  font-weight: normal;
+  color: #006699;
+  font-size: 12pt;
+}
+
+
+/* END OF FONT STYLE DEFINITIONS */
