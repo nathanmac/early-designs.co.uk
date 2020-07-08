@@ -17,9 +17,10 @@ keywords: >
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://early-designs.co.uk"
+url: "https://early-designs.co.uk"
 email: info@early-designs.co.uk
-phone: +44(0)118 0723531
+phone: +44(0)118 9722194
+mobile: +44(0)7778 767092
 fax: +44(0)870 6220246
 
 # Build settings
